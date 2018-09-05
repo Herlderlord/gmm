@@ -4,6 +4,8 @@ Author: Jeremy Stober
 Contact: stober@gmail.com
 Version: 0.01
 
+Modified by Herlderlord : You can use it with python3. Just change to the branch python3. 
+
 This is a standalone Pythonic implementation of Gaussian Mixture
 Models. Various initialization strategies are included along with a
 standard EM algorithm for determining the model parameters based on
